@@ -1,5 +1,5 @@
 
 def func():
-    print("pypy")
+    print("uyuyupy")
 
 func()
